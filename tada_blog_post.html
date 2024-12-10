@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="apple-touch-icon" sizes="180x180" href="../static/images/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="../static/images/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../static/images/favicon/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TADA: Monitoring Data for ATLAS</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css">
+  <style>
+    /* Custom styles */
+    .content-container {
+      max-width: 800px; /* Restrict width for better readability */
+      margin: 0 auto; /* Center the content */
+      padding: 20px; /* Add padding inside the container */
+    }
+
+    .placeholder {
+      border: 1px dashed #ccc;
+      text-align: center;
+      padding: 10px;
+      margin: 30px 0; /* Add spacing above and below placeholders */
+    }
+
+    .placeholder img {
+      max-width: 100%; /* Ensure images are responsive */
+      height: auto;
+    }
+    .nav {
+        display: flex;
+        justify-content: center;
+        background-color: #363636;
+        color: #fff;
+        padding: 1rem;
+    }
+    .nav-link {
+        margin-right: 1rem;
+        color: #fff;
+        text-decoration: none;
+        transition: color 0.3s ease-in-out;
+    }
+    .nav-link:hover {
+        color: #ccc;
+    }
+  </style>
+</head>
+<body>
+  <!-- Navigation Bar -->
+  <nav class="nav is-centered">
+    <a class="nav-link" href="index.html">Home</a>
+    <a class="nav-link" href="cv.html">CV</a>
+    <a class="nav-link" href="projects.html">Projects</a>
+    <a class="nav-link" href="blog.html">Blog</a>
+  </nav>
+
+  <!-- Blog Post Content -->
+  <div class="content-container">
+    <h1 class="title">Automatic fast monitoring of LHC data</h1>
+    <p class="subtitle">Exploring generic experimental signatures with TADA, a monitoring tool for CERN's ATLAS experiment at the Large Hadron Collider (LHC).</p>
+
+    <!-- Introduction Section -->
+    <p>
+      The TAg DAta (TADA) system was developed as part of the ATLAS experiment at CERN's Large Hadron Collider (LHC).
+      It served as a fast monitoring system designed to process and analyze data from particle collisions.
+      TADA simplified the massive volume of raw data produced by ATLAS, organizing it into more manageable formats for real-time analysis and offline validation.
+      Its goal was to ensure the quality of recorded data and identify unusual patterns that serve as a validation for simulation and data quality, as well as a tool for hinting at potential anomalies in the data.
+    </p>
+
+    <p>
+      During my doctoral research, I worked on enhancing TADA's functionality to handle complex data monitoring challenges, targeting generic experimental signatures.
+      This involved integrating automatic selection criteria, filtering and analysis of particle data.
+      I leveraged Python and C++ for the processing of large datasets, expanding TADA's scope to monitor several observables for hundreds of decay channels.
+    </p>
+
+    <p>
+      TADA would automatically produce a webpage with plots with recent data and Monte Carlo simulations for critical observables like invariant mass and transverse momentum.
+      You can read more about it <a href="https://theses.hal.science/tel-02402488">in my doctoral thesis (Chapter 4)</a>.
+    </p>
+
+
+    <div class="placeholder">
+      <!-- <p><strong></strong></p> -->
+      <img src="../static/images/tada/tada_four.png" alt="Four plots from one experimental signature in TADA">
+    </div>
+
+  </div>
+</body>
+</html>

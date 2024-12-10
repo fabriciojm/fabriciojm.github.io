@@ -1,11 +1,66 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Blog - My Website</title>
+  <link rel="apple-touch-icon" sizes="180x180" href="../static/images/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="../static/images/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../static/images/favicon/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest"
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Blog</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css">
+  <style>
+    /* Navigation Bar */
+    .nav {
+      display: flex;
+      justify-content: center;
+      background-color: #363636;
+      color: #fff;
+      padding: 1rem;
+    }
+    .nav-link {
+      margin-right: 1rem;
+      color: #fff;
+      text-decoration: none;
+      transition: color 0.3s ease-in-out;
+    }
+    .nav-link:hover {
+      color: #ccc;
+    }
+
+    /* Blog Container */
+    .container {
+      margin-top: 20px;
+    }
+  </style>
 </head>
 <body>
-    <h1>My Blog</h1>
-    <p>Placeholder text for my blog.</p>
+  <!-- Navigation Bar -->
+  <nav class="nav is-centered">
+    <a class="nav-link" href="index.html">Home</a>
+    <a class="nav-link" href="cv.html">CV</a>
+    <a class="nav-link" href="projects.html">Projects</a>
+    <a class="nav-link" href="blog.html">Blog</a>
+  </nav>
+
+  <!-- Blog Page Content -->
+  <div class="container">
+    <h1 class="title">Blog</h1>
+    <p class="subtitle">A collection of posts about my projects and work.</p>
+
+    <!-- Blog Entries -->
+    <div class="columns is-multiline">
+      <!-- Blog Post 1 -->
+      <div class="column is-full">
+        <div class="card">
+          <div class="card-content">
+            <p class="title">Automatic fast monitoring of LHC data</p>
+            <p class="subtitle">Exploring generic experimental signatures with TADA, a monitoring tool for CERN's ATLAS experiment.</p>
+            <a href="tada_blog_post.html" class="button is-link" target="_blank">Read blog post</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </body>
 </html>
