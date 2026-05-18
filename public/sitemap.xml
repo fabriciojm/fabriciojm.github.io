@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:36459/posts/</loc>
+    <lastmod>2026-05-18T12:09:25+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:36459/tags/container/</loc>
+    <lastmod>2026-05-18T12:09:25+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:36459/</loc>
+    <lastmod>2026-05-18T12:09:25+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:36459/tags/linux/</loc>
+    <lastmod>2026-05-18T12:09:25+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:36459/posts/20260518-linux-user/</loc>
+    <lastmod>2026-05-18T12:09:25+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:36459/tags/sysadmin/</loc>
+    <lastmod>2026-05-18T12:09:25+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:36459/tags/</loc>
+    <lastmod>2026-05-18T12:09:25+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:36459/categories/</loc>
+  </url>
+</urlset>

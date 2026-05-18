@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Fabricio Jiménez Morales</title>
+    <link>http://localhost:36459/</link>
+    <description>Recent content on Fabricio Jiménez Morales</description>
+    <image>
+      <title>Fabricio Jiménez Morales</title>
+      <url>http://localhost:36459/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:36459/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 18 May 2026 12:09:25 +0200</lastBuildDate>
+    <atom:link href="http://localhost:36459/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First and Best Linux Lesson</title>
+      <link>http://localhost:36459/posts/20260518-linux-user/</link>
+      <pubDate>Mon, 18 May 2026 12:09:25 +0200</pubDate>
+      <guid>http://localhost:36459/posts/20260518-linux-user/</guid>
+      <description>Creating a new user in Linux by hand can teach you more than anything else if you&amp;#39;re a beginner</description>
+    </item>
+  </channel>
+</rss>
