@@ -22,6 +22,7 @@ cover:
   relative: false
   hidden: true
 ---
+
 About a half a life ago, I had my first Linux lesson, and the best so far. I was a freshman at uni and started learning Linux at [Laboratorio Docente de Computación](https://www.ldc.usb.ve). After a few weeks there, the first important homework was a seemingly simple one: create a new user (your user) in a Linux machine using the terminal.
 
 But there's a catch (see what I'm doing here?): **no** `adduser` or `useradd` scripts allowed. I could bring my notes but not my laptop.
