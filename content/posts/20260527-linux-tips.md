@@ -1,5 +1,5 @@
 ---
-title: "Two Security Linux Tips"
+title: "Two Linux Security Tips"
 date: 2026-05-27T16:23:11+02:00
 draft: false
 
