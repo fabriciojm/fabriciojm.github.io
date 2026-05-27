@@ -11,14 +11,21 @@
     </image>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 18 May 2026 12:09:25 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 16:23:11 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/container/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Two Security Linux Tips</title>
+      <link>http://localhost:1313/posts/20260527-linux-tips/</link>
+      <pubDate>Wed, 27 May 2026 16:23:11 +0200</pubDate>
+      <guid>http://localhost:1313/posts/20260527-linux-tips/</guid>
+      <description>Two small habits to improve Linux security</description>
+    </item>
     <item>
       <title>My First and Best Linux Lesson</title>
       <link>http://localhost:1313/posts/20260518-linux-user/</link>
       <pubDate>Mon, 18 May 2026 12:09:25 +0200</pubDate>
       <guid>http://localhost:1313/posts/20260518-linux-user/</guid>
-      <description>Creating a new user in Linux by hand can teach you more than anything else if you&amp;#39;re a beginner.</description>
+      <description>Creating a new user in Linux by hand can teach you more than anything else if you&amp;#39;re a beginner</description>
     </item>
   </channel>
 </rss>
