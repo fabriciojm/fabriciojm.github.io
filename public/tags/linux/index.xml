@@ -11,10 +11,17 @@
     </image>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 27 May 2026 16:23:11 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 17:13:24 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Two Security Linux Tips</title>
+      <title>Dev Contaniners and SSH</title>
+      <link>http://localhost:1313/posts/20260622-devcontainers-ssh/</link>
+      <pubDate>Mon, 22 Jun 2026 17:13:24 +0200</pubDate>
+      <guid>http://localhost:1313/posts/20260622-devcontainers-ssh/</guid>
+      <description>Development containers don&amp;#39;t need private keys explicitly to communicate with GitHub, and I find that pretty neat.</description>
+    </item>
+    <item>
+      <title>Two Linux Security Tips</title>
       <link>http://localhost:1313/posts/20260527-linux-tips/</link>
       <pubDate>Wed, 27 May 2026 16:23:11 +0200</pubDate>
       <guid>http://localhost:1313/posts/20260527-linux-tips/</guid>

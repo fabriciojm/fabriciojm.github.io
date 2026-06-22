@@ -11,20 +11,55 @@
     </image>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 27 May 2026 16:23:11 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 17:13:24 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Container</title>
-      <link>http://localhost:1313/tags/container/</link>
-      <pubDate>Wed, 27 May 2026 16:23:11 +0200</pubDate>
-      <guid>http://localhost:1313/tags/container/</guid>
+      <title>Chezmoi</title>
+      <link>http://localhost:1313/tags/chezmoi/</link>
+      <pubDate>Mon, 22 Jun 2026 17:13:24 +0200</pubDate>
+      <guid>http://localhost:1313/tags/chezmoi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Containers</title>
+      <link>http://localhost:1313/tags/containers/</link>
+      <pubDate>Mon, 22 Jun 2026 17:13:24 +0200</pubDate>
+      <guid>http://localhost:1313/tags/containers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dev Containers</title>
+      <link>http://localhost:1313/tags/dev-containers/</link>
+      <pubDate>Mon, 22 Jun 2026 17:13:24 +0200</pubDate>
+      <guid>http://localhost:1313/tags/dev-containers/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux</title>
       <link>http://localhost:1313/tags/linux/</link>
-      <pubDate>Wed, 27 May 2026 16:23:11 +0200</pubDate>
+      <pubDate>Mon, 22 Jun 2026 17:13:24 +0200</pubDate>
       <guid>http://localhost:1313/tags/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mise</title>
+      <link>http://localhost:1313/tags/mise/</link>
+      <pubDate>Mon, 22 Jun 2026 17:13:24 +0200</pubDate>
+      <guid>http://localhost:1313/tags/mise/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ssh</title>
+      <link>http://localhost:1313/tags/ssh/</link>
+      <pubDate>Mon, 22 Jun 2026 17:13:24 +0200</pubDate>
+      <guid>http://localhost:1313/tags/ssh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Container</title>
+      <link>http://localhost:1313/tags/container/</link>
+      <pubDate>Wed, 27 May 2026 16:23:11 +0200</pubDate>
+      <guid>http://localhost:1313/tags/container/</guid>
       <description></description>
     </item>
     <item>
