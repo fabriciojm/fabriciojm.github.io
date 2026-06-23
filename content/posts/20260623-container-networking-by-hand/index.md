@@ -23,7 +23,7 @@ cover:
   hidden: true
 ---
 
-You `docker run`. You get networking. It's that simple. But is it?
+You `docker run`. You get containers with networking. It's that simple. But is it?
 
 Under the hood, [Docker](https://docs.docker.com/engine/network/) creates network namespaces, virtual Ethernet devices, bridges, routing rules and everything else needed for containers to communicate. I'm following [Drew Elliot's Networking Course](https://github.com/drewelliott/kubecraft/tree/main) lessons; the first of which is mostly about how networking happens in containers. What follows is based on the notes I made during the course and revised on my own, including some concepts I wanted to revise.
 
