@@ -11,14 +11,22 @@
     </image>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Jun 2026 17:13:24 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 22:57:28 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Container Networking by Hand</title>
+      <link>http://localhost:1313/posts/20260623-container-networking-by-hand/</link>
+      <pubDate>Tue, 23 Jun 2026 22:57:28 +0200</pubDate>
+      <guid>http://localhost:1313/posts/20260623-container-networking-by-hand/</guid>
+      <description>&lt;p&gt;You run a simple &lt;code&gt;docker run&lt;/code&gt; command. You get networking. It&amp;rsquo;s that simple.&lt;/p&gt;
+&lt;p&gt;But, under the hood, &lt;a href=&#34;https://docs.docker.com/engine/network/&#34;&gt;Docker&lt;/a&gt; creates network namespaces, virtual Ethernet devices, bridges, routing rules and everything else needed for containers to communicate. I&amp;rsquo;m following &lt;a href=&#34;https://github.com/drewelliott/kubecraft/tree/main&#34;&gt;Drew Elliot&amp;rsquo;s Networking Course&lt;/a&gt; lessons in networking; the first lesson is mostly about how networking happens in containers. I followed the course, took notes and revised them, and took the chance to revise a few networking concepts.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Dev Contaniners and SSH</title>
       <link>http://localhost:1313/posts/20260622-devcontainers-ssh/</link>
       <pubDate>Mon, 22 Jun 2026 17:13:24 +0200</pubDate>
       <guid>http://localhost:1313/posts/20260622-devcontainers-ssh/</guid>
-      <description>Development containers don&amp;#39;t need private keys to communicate with GitHub, and I find that pretty neat.</description>
+      <description>Development containers don&amp;#39;t need private keys explicitly to communicate with GitHub, and I find that pretty neat.</description>
     </item>
     <item>
       <title>Two Linux Security Tips</title>

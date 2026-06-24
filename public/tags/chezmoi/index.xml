@@ -18,7 +18,7 @@
       <link>http://localhost:1313/posts/20260622-devcontainers-ssh/</link>
       <pubDate>Mon, 22 Jun 2026 17:13:24 +0200</pubDate>
       <guid>http://localhost:1313/posts/20260622-devcontainers-ssh/</guid>
-      <description>Development containers don&amp;#39;t need private keys to communicate with GitHub, and I find that pretty neat.</description>
+      <description>Development containers don&amp;#39;t need private keys explicitly to communicate with GitHub, and I find that pretty neat.</description>
     </item>
   </channel>
 </rss>

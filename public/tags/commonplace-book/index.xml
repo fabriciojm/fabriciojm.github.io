@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Commonplace Book on Fabricio Jiménez Morales</title>
+    <link>http://localhost:1313/tags/commonplace-book/</link>
+    <description>Recent content in Commonplace Book on Fabricio Jiménez Morales</description>
+    <image>
+      <title>Fabricio Jiménez Morales</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 25 Jun 2026 00:12:01 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/commonplace-book/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Commonplace Repo or (Show How You) Build in Public</title>
+      <link>http://localhost:1313/posts/20260624-commonplace-repo/</link>
+      <pubDate>Thu, 25 Jun 2026 00:12:01 +0200</pubDate>
+      <guid>http://localhost:1313/posts/20260624-commonplace-repo/</guid>
+      <description>Keeping public code from continuous learning is the IT professional&amp;#39;s equivalent of a commonplace book.</description>
+    </item>
+  </channel>
+</rss>
