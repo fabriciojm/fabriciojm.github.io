@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Personal on Fabricio Jiménez Morales</title>
+    <link>http://localhost:1313/tags/personal/</link>
+    <description>Recent content in Personal on Fabricio Jiménez Morales</description>
+    <image>
+      <title>Fabricio Jiménez Morales</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 26 Jun 2026 01:04:46 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I Write When I Think I Can&#39;t Think</title>
+      <link>http://localhost:1313/posts/20260625-writing-saves/</link>
+      <pubDate>Fri, 26 Jun 2026 01:04:46 +0200</pubDate>
+      <guid>http://localhost:1313/posts/20260625-writing-saves/</guid>
+      <description>There was an earthquake at home and I can&amp;#39;t do much about it. I can&amp;#39;t concentrate on my stuff, but writing helps.</description>
+    </item>
+  </channel>
+</rss>
