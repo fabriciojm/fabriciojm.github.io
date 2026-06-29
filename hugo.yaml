@@ -12,6 +12,12 @@ minify:
   disableXML: true
   minifyOutput: true
 
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: ExampleSite
@@ -79,12 +85,14 @@ params:
   socialIcons:
     - name: linkedin
       url: "https://linkedin.com/in/fabriciojm"
+    - name: github
+      url: "https://github.com/fabriciojm"
     - name: x
       url: "https://x.com/fabriciojm"
         # - name: stackoverflow
         #   url: "https://stackoverflow.com"
-    - name: github
-      url: "https://github.com/fabriciojm"
+    - name: rss
+      url: "https://fabriciojm.github.io/index.xml"
 
   analytics:
     google:

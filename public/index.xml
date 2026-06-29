@@ -11,15 +11,28 @@
     </image>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jun 2026 22:57:28 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 01:04:46 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I Write When I Think I Can&#39;t Think</title>
+      <link>http://localhost:1313/posts/20260625-writing-saves/</link>
+      <pubDate>Fri, 26 Jun 2026 01:04:46 +0200</pubDate>
+      <guid>http://localhost:1313/posts/20260625-writing-saves/</guid>
+      <description>There was an earthquake at home and I can&amp;#39;t do much about it. I can&amp;#39;t concentrate on my stuff, but writing helps.</description>
+    </item>
+    <item>
+      <title>The Commonplace Repo or (Show How You) Build in Public</title>
+      <link>http://localhost:1313/posts/20260624-commonplace-repo/</link>
+      <pubDate>Thu, 25 Jun 2026 00:12:01 +0200</pubDate>
+      <guid>http://localhost:1313/posts/20260624-commonplace-repo/</guid>
+      <description>Code snippets and experiments from continuous learning in a repo is the IT professional&amp;#39;s equivalent of a commonplace book.</description>
+    </item>
     <item>
       <title>Container Networking by Hand</title>
       <link>http://localhost:1313/posts/20260623-container-networking-by-hand/</link>
       <pubDate>Tue, 23 Jun 2026 22:57:28 +0200</pubDate>
       <guid>http://localhost:1313/posts/20260623-container-networking-by-hand/</guid>
-      <description>&lt;p&gt;You run a simple &lt;code&gt;docker run&lt;/code&gt; command. You get networking. It&amp;rsquo;s that simple.&lt;/p&gt;
-&lt;p&gt;But, under the hood, &lt;a href=&#34;https://docs.docker.com/engine/network/&#34;&gt;Docker&lt;/a&gt; creates network namespaces, virtual Ethernet devices, bridges, routing rules and everything else needed for containers to communicate. I&amp;rsquo;m following &lt;a href=&#34;https://github.com/drewelliott/kubecraft/tree/main&#34;&gt;Drew Elliot&amp;rsquo;s Networking Course&lt;/a&gt; lessons in networking; the first lesson is mostly about how networking happens in containers. I followed the course, took notes and revised them, and took the chance to revise a few networking concepts.&lt;/p&gt;</description>
+      <description>&amp;#34;Containers are just Linux.&amp;#34; Yes, let&amp;#39;s zoom in.</description>
     </item>
     <item>
       <title>Dev Contaniners and SSH</title>
