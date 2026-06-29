@@ -79,8 +79,8 @@ params:
   homeInfoParams:
     Title: "Fabricio Jiménez Morales\n
       \n
-      <small>DevOps Engineer · Physics PhD</small>"
-    Content: Welcome! I work with Linux, Containers, Kubernetes and learn about Cloud-native technologies. I code with Python and am interested in solving problems with AI and Machine Learning. I used to work with big colliders like CERN's LHC. Don't hesitate to contact me for collaborations or work opportunities.
+      <small>Platform Engineer · Physics PhD</small>"
+    Content: Welcome! I work with Linux, Containers, Kubernetes and learn about Cloud-native technologies. I code with Python and am interested in designing and deploying reliable infrastructure at scale. I used to work with big colliders like CERN's LHC. Don't hesitate to contact me for collaborations or work opportunities.
 
   socialIcons:
     - name: linkedin
@@ -89,8 +89,6 @@ params:
       url: "https://github.com/fabriciojm"
     - name: x
       url: "https://x.com/fabriciojm"
-        # - name: stackoverflow
-        #   url: "https://stackoverflow.com"
     - name: rss
       url: "https://fabriciojm.github.io/index.xml"
 
