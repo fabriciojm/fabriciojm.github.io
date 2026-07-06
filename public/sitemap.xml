@@ -3,18 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-06-26T01:04:46+02:00</lastmod>
+    <lastmod>2026-06-29T23:21:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-06-26T01:04:46+02:00</lastmod>
+    <lastmod>2026-06-29T23:21:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/20260629-blog-posts-github/</loc>
+    <lastmod>2026-06-29T23:21:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-06-29T23:21:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/workflows/</loc>
+    <lastmod>2026-06-29T23:21:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/writing/</loc>
+    <lastmod>2026-06-29T23:21:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/20260625-writing-saves/</loc>
     <lastmod>2026-06-26T01:04:46+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/personal/</loc>
-    <lastmod>2026-06-26T01:04:46+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-06-26T01:04:46+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/building/</loc>

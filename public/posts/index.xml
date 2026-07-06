@@ -11,8 +11,16 @@
     </image>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Jun 2026 01:04:46 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 23:21:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Listing my Latest Blog Posts on my GitHub Profile</title>
+      <link>http://localhost:1313/posts/20260629-blog-posts-github/</link>
+      <pubDate>Mon, 29 Jun 2026 23:21:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/20260629-blog-posts-github/</guid>
+      <description>&lt;p&gt;In the last few months, I&amp;rsquo;ve been working extensively on my transition to Platform Engineering, and that includes my online profile. The very fact that you&amp;rsquo;re reading this means, I may modestly say, that it&amp;rsquo;s working!&lt;/p&gt;
+&lt;p&gt;Today, a short write-up about a nice improvement to &lt;a href=&#34;https://github.com/fabriciojm&#34;&gt;my GitHub Profile&lt;/a&gt;: automatically listing &lt;a href=&#34;https://github.com/fabriciojm#writing&#34;&gt;my latest blog posts&lt;/a&gt;. Since I use the Hugo Papermod theme, I had to make sure the site was producing an RSS feed. This is achieved by ensuring that &lt;code&gt;hugo.yaml&lt;/code&gt; has &lt;code&gt;RSS&lt;/code&gt; as an element of &lt;code&gt;outputs.home&lt;/code&gt;. Additionally, I added the RSS icon to my header by adding the following element to &lt;code&gt;params.socialIcons&lt;/code&gt;:&lt;/p&gt;</description>
+    </item>
     <item>
       <title>I Write When I Think I Can&#39;t Think</title>
       <link>http://localhost:1313/posts/20260625-writing-saves/</link>

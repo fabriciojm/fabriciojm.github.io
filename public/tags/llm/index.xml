@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LLM on Fabricio Jiménez Morales</title>
+    <link>http://localhost:1313/tags/llm/</link>
+    <description>Recent content in LLM on Fabricio Jiménez Morales</description>
+    <image>
+      <title>Fabricio Jiménez Morales</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 07 Jul 2026 01:13:32 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/llm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Overwhelmed at VivaTech</title>
+      <link>http://localhost:1313/posts/20260706-vivatech/</link>
+      <pubDate>Tue, 07 Jul 2026 01:13:32 +0200</pubDate>
+      <guid>http://localhost:1313/posts/20260706-vivatech/</guid>
+      <description>I unexpectedly got the chance to attend a gigantic tech event in Paris. Despite the size of the crowd, I saw amazing innovation.</description>
+    </item>
+  </channel>
+</rss>
