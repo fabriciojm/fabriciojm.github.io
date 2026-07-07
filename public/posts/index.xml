@@ -11,8 +11,22 @@
     </image>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Jun 2026 23:21:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 00:22:12 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Password Workflow with Raycast and Pass</title>
+      <link>http://localhost:1313/posts/20260707-pass-raycast/</link>
+      <pubDate>Wed, 08 Jul 2026 00:22:12 +0200</pubDate>
+      <guid>http://localhost:1313/posts/20260707-pass-raycast/</guid>
+      <description>I don&amp;#39;t like browser password managers. I use `pass` and Raycast, and it&amp;#39;s smooth</description>
+    </item>
+    <item>
+      <title>Overwhelmed at VivaTech</title>
+      <link>http://localhost:1313/posts/20260706-vivatech/</link>
+      <pubDate>Tue, 07 Jul 2026 01:13:32 +0200</pubDate>
+      <guid>http://localhost:1313/posts/20260706-vivatech/</guid>
+      <description>I unexpectedly got the chance to attend a gigantic tech event in Paris. Despite the size of the crowd, I saw amazing innovation.</description>
+    </item>
     <item>
       <title>Listing my Latest Blog Posts on my GitHub Profile</title>
       <link>http://localhost:1313/posts/20260629-blog-posts-github/</link>

@@ -6,7 +6,7 @@ draft: false
 tags: []
 author: "Fabricio Jiménez Morales"
 
-description: "I don't like browser password managers. I use `pass` and Raycast, and it's smooth"
+description: "I don't like browser password managers. I use pass and Raycast, and it's smooth."
 showToc: false
 TocOpen: false
 
@@ -77,7 +77,7 @@ The `pass` commands for adding and editing entries listed above integrate with G
 
 ## Transferring the GPG Key to the Mac
 
-Imagine that the passwords above were created on a Linux host, and now we want to fetch the store onto our Mac. We'll need to `git pull`, but before being able to read (decrypt) the passwords, we need to copy the GPG key used to encrypt the store in the first place to the Mac—let's do that first.
+Imagine that the passwords above were created on a Linux host, and now we want to fetch the store onto our Mac. We'll need to `git pull`, but before being able to read (decrypt) the passwords, we need to copy the GPG key used to encrypt the store in the first place to the Mac—let's do that first.(It's difficult to manually type an em-dash these days.)
 
 Find the identity of the key, `<gpg-key-id>`, the same one we used above:
 
