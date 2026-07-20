@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>GitOps on Fabricio Jiménez Morales</title>
-    <link>http://localhost:1313/tags/gitops/</link>
-    <description>Recent content in GitOps on Fabricio Jiménez Morales</description>
+    <title>Open Soruce on Fabricio Jiménez Morales</title>
+    <link>http://localhost:1313/tags/open-soruce/</link>
+    <description>Recent content in Open Soruce on Fabricio Jiménez Morales</description>
     <image>
       <title>Fabricio Jiménez Morales</title>
       <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,20 +12,13 @@
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 20 Jul 2026 14:55:54 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/gitops/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/open-soruce/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tinker then Contribute to Open Source</title>
       <link>http://localhost:1313/posts/20260720-tinker-open-source/</link>
       <pubDate>Mon, 20 Jul 2026 14:55:54 +0200</pubDate>
       <guid>http://localhost:1313/posts/20260720-tinker-open-source/</guid>
       <description>Open source contributions are small and incremental, and they can come from anyone. Here&amp;#39;s one example.</description>
-    </item>
-    <item>
-      <title>A Short Comment on Idempotence</title>
-      <link>http://localhost:1313/posts/20260710-idempotence/</link>
-      <pubDate>Fri, 10 Jul 2026 12:57:56 +0200</pubDate>
-      <guid>http://localhost:1313/posts/20260710-idempotence/</guid>
-      <description>I&amp;#39;ve found the same concept in the wild several times.</description>
     </item>
   </channel>
 </rss>
