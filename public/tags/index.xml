@@ -21,6 +21,13 @@
       <description></description>
     </item>
     <item>
+      <title>Containers</title>
+      <link>http://localhost:1313/tags/containers/</link>
+      <pubDate>Mon, 20 Jul 2026 14:55:54 +0200</pubDate>
+      <guid>http://localhost:1313/tags/containers/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>DevOps</title>
       <link>http://localhost:1313/tags/devops/</link>
       <pubDate>Mon, 20 Jul 2026 14:55:54 +0200</pubDate>
@@ -130,13 +137,6 @@
       <link>http://localhost:1313/tags/learning/</link>
       <pubDate>Thu, 25 Jun 2026 00:12:01 +0200</pubDate>
       <guid>http://localhost:1313/tags/learning/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Containers</title>
-      <link>http://localhost:1313/tags/containers/</link>
-      <pubDate>Tue, 23 Jun 2026 22:57:28 +0200</pubDate>
-      <guid>http://localhost:1313/tags/containers/</guid>
       <description></description>
     </item>
     <item>

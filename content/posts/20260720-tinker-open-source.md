@@ -3,7 +3,7 @@ title: "Tinker then Contribute to Open Source"
 date: 2026-07-20T14:55:54+02:00
 draft: false
 
-tags: ["containerlab", "networking", "GitOps", "DevOps", "Open Source"]
+tags: ["containerlab", "containers", "networking", "GitOps", "DevOps", "Open Source"]
 author: "Fabricio Jiménez Morales"
 
 description: "Open source contributions are small and incremental, and they can come from anyone. Here's one example."
