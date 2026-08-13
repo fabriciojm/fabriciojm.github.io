@@ -37,4 +37,8 @@ I use chat to get concepts, general structures, and ideas before solutions. When
 
 I give the assistant a stream of ideas, constraints, and raw thoughts. This works well when I have a few ideas for a blog post, I’m learning a new technology, or I’m trying to adapt something to a project.
 
+You may have recognized this pattern from [Andrej Karpathy](https://x.com/karpathy/status/2079610838143623371). To be honest, I've been doing my voice rambles for some time already; not because I'm super smart, but because I'm Latin American and long voice notes are our main way of interacting via WhatsApp. It was nice to get some validation by Karpathy himself, though.
+
+---
+
 For me, the useful distinction is not which AI tool I’m using. It’s what kind of help I need from it.
