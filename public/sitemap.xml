@@ -2,8 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/ai/</loc>
+    <lastmod>2026-08-13T11:31:11+02:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-07-20T14:55:54+02:00</lastmod>
+    <lastmod>2026-08-13T11:31:11+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-08-13T11:31:11+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-08-13T11:31:11+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/20260813-three-levels-ai/</loc>
+    <lastmod>2026-08-13T11:31:11+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/containerlab/</loc>
     <lastmod>2026-07-20T14:55:54+02:00</lastmod>
@@ -14,9 +26,6 @@
     <loc>http://localhost:1313/tags/devops/</loc>
     <lastmod>2026-07-20T14:55:54+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-07-20T14:55:54+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/gitops/</loc>
     <lastmod>2026-07-20T14:55:54+02:00</lastmod>
   </url><url>
@@ -24,9 +33,6 @@
     <lastmod>2026-07-20T14:55:54+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/open-source/</loc>
-    <lastmod>2026-07-20T14:55:54+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-07-20T14:55:54+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/20260720-tinker-open-source/</loc>
@@ -43,9 +49,6 @@
   </url><url>
     <loc>http://localhost:1313/posts/20260707-pass-raycast/</loc>
     <lastmod>2026-07-08T00:22:12+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/ai/</loc>
-    <lastmod>2026-07-07T01:13:32+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/llm/</loc>
     <lastmod>2026-07-07T01:13:32+02:00</lastmod>
