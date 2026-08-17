@@ -57,8 +57,8 @@ params:
 
   label:
     text: "Fabricio Jiménez Morales"
-    icon: /apple-touch-icon.png
-    iconHeight: 35
+    # icon: /apple-touch-icon.png
+    # iconHeight: 35
 
   # profile-mode
   profileMode:
